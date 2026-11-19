@@ -1,75 +1,54 @@
-# Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# My First Nuxt Application
 
-## Setup
+**ITE 18 – Activity 1: Frontend Development**
 
-Make sure to install dependencies:
+A responsive two-page personal profile website developed using Nuxt.js, Vue.js, and Tailwind CSS.
+
+## Features
+
+- Personal homepage with introduction and profile picture
+- Profile page with personal information and educational background
+- Skills, interests, and hobbies
+- Navigation between Home and Profile
+- Dark and light mode toggle
+- Responsive design for desktop and mobile devices
+
+## Technologies Used
+
+- Nuxt.js 4
+- Vue.js 3
+- TypeScript
+- Tailwind CSS
+- Lucide Icons
+
+## Project Structure
+
+- `app/pages/` – Homepage and profile page
+- `app/components/` – Reusable navigation component
+- `app/layouts/` – Shared website layout
+- `public/` – Profile image and static assets
+
+## How to Run
+
+Install dependencies:
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+Start the development server:
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+Open http://localhost:3000 in your browser.
 
-Build the application for production:
+## Developer
 
-```bash
-# npm
-npm run build
+**Khizha Rhizhane C. Duquesa**
 
-# pnpm
-pnpm build
+Bachelor of Science in Information Technology
 
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Caraga State University – Main Campus
