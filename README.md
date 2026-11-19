@@ -29,6 +29,28 @@ A responsive two-page personal profile website developed using Nuxt.js, Vue.js, 
 - `app/layouts/` – Shared website layout
 - `public/` – Profile image and static assets
 
+## Application Screenshots
+
+The following screenshots demonstrate the completed two-page personal profile application built with Nuxt.js and Tailwind CSS.
+
+### 1. Homepage
+
+![Nuxt Application Homepage](screenshots/homepage.png)
+
+The homepage displays my introduction, profile picture, navigation menu, and technologies.
+
+### 2. Personal Profile Page
+
+![Nuxt Application Profile Page](screenshots/profile.png)
+
+The profile page presents my personal information, educational background, technical skills, interests, and hobbies.
+
+### 3. Project Folder Structure
+
+![Nuxt Project Folder Structure](screenshots/project-structure.png)
+
+The project follows the required Nuxt directory structure, including `app/pages`, `app/components`, `app/layouts`, and `public`.
+
 ## How to Run
 
 Install dependencies:
